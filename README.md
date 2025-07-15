@@ -88,7 +88,7 @@ The dashboard was designed to present key performance indicators (KPIs) from mul
 
 Below is the screenshot of the completed Power BI dashboard:
 
-![Dashboard](powerbi/screenshots/Aqsa_Shabbir_Dashboard.png)
+![Dashboard](PowerBi/screenshots/Aqsa_Shabbir_Dashboard.png)
 
 ### Dashboard Views and Insights
 
