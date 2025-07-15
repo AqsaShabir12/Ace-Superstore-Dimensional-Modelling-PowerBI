@@ -18,7 +18,7 @@ The schema enables multidimensional analysis of sales, costs, discounts, and pro
 
 Below is the schema diagram that visually represents the star schema design:
 
-![Schema Diagram](powerbi/screenshots/Aqsa_Shabbir_schema_diagram.png)
+![Schema Diagram](PowerBi/screenshots/Aqsa_Shabbir_schema_diagram.png)
 
 ---
 ## Tables and Purpose
