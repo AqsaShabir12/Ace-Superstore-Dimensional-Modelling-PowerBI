@@ -1,4 +1,4 @@
-# RDAMP Dimensional Model PowerBI
+# Ace Superstore Dimensional Modelling Using PowerBI
 ## Project Title: Dimensional Modeling, SQL Transformation & Power BI Reporting
 
 ## Introduction
